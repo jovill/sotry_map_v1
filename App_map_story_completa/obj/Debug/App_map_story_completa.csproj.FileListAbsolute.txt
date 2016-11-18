@@ -1,0 +1,58 @@
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\ApplicationInsights.config
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\csc.exe
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\vbc.exe
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\VBCSCompiler.exe
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\App_map_story_completa.dll.config
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\App_map_story_completa.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\App_map_story_completa.pdb
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\obj\Debug\App_map_story_completa.csprojResolveAssemblyReference.cache
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\obj\Debug\App_map_story_completa.dll
+c:\users\joao.villar\documents\visual studio 2015\Projects\App_map_story_completa\App_map_story_completa\obj\Debug\App_map_story_completa.pdb
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\ApplicationInsights.config
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\csc.exe
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\vbc.exe
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\VBCSCompiler.exe
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\App_map_story_completa.dll.config
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\App_map_story_completa.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\bin\App_map_story_completa.pdb
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\obj\Debug\App_map_story_completa.csprojResolveAssemblyReference.cache
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\obj\Debug\App_map_story_completa.dll
+C:\Users\joao.villar\Source\Repos\sotry_map_v1\App_map_story_completa\obj\Debug\App_map_story_completa.pdb
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\ApplicationInsights.config
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\csc.exe
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\vbc.exe
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\VBCSCompiler.exe
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\App_map_story_completa.dll.config
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\App_map_story_completa.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\bin\App_map_story_completa.pdb
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\obj\Debug\App_map_story_completa.csprojResolveAssemblyReference.cache
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\obj\Debug\App_map_story_completa.dll
+C:\Users\renan.xavier\Source\Repos\sotry_map_v1\App_map_story_completa\obj\Debug\App_map_story_completa.pdb
